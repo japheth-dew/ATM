@@ -1,0 +1,15 @@
+/home/weevil/Documents/_c#/ATM/bin/Debug/net7.0/ATM
+/home/weevil/Documents/_c#/ATM/bin/Debug/net7.0/ATM.deps.json
+/home/weevil/Documents/_c#/ATM/bin/Debug/net7.0/ATM.runtimeconfig.json
+/home/weevil/Documents/_c#/ATM/bin/Debug/net7.0/ATM.dll
+/home/weevil/Documents/_c#/ATM/bin/Debug/net7.0/ATM.pdb
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.csproj.AssemblyReference.cache
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.GeneratedMSBuildEditorConfig.editorconfig
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.AssemblyInfoInputs.cache
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.AssemblyInfo.cs
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.csproj.CoreCompileInputs.cache
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.dll
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/refint/ATM.dll
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.pdb
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ATM.genruntimeconfig.cache
+/home/weevil/Documents/_c#/ATM/obj/Debug/net7.0/ref/ATM.dll
